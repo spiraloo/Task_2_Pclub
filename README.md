@@ -24,4 +24,19 @@ We have s to give 1 in checkPassword and give the answer.
 
 
 ### process
+In process there were two arrays local_88 and one array which we gave, each element in local_88 is getting increased by 1 and each element in array is getting decreased by 1. 
+
+### prepare
+There is switch case:  
+It printed &DAT_0001202c if it is "c"  
+Printed there at default  
+Printed comrade if it is "f"  
+Printed harder if it is "t"  
+Printed you're if it is "{"  
+Printed almost if it is "}"    
+
+
+### checkRes
+It has to return 1 for us to give the correct password. There was a piVar2 which was &DAT_000120c0 which stores **cc0h**, there is one piVar3 which is duplicate of piVar2, 
+converting **cc0h** to decimal it gives us **3264** 
 
