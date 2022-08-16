@@ -38,5 +38,5 @@ Printed almost if it is "}"
 
 ### checkRes
 It has to return 1 for us to give the correct password. There was a piVar2 which was &DAT_000120c0 which stores **cc0h**, there is one piVar3 which is duplicate of piVar2, 
-converting **cc0h** to decimal it gives us **3264**, now converting it into binary it will give me **110011000000**, trimmign the last 5 zeroes will give me **1100110** which in decimal is **!02** in ASCII is **f** which is the forst character.  
+converting **cc0h** to decimal it gives us **3264**, now converting it into binary it will give me **110011000000**, trimmign the last 5 zeroes will give me **1100110** which in decimal is **!02** in ASCII is **f** which is the first character.  
 
